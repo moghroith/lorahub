@@ -1,0 +1,5 @@
+streamlit
+cloudscraper
+pandas
+plotly 
+humanize
